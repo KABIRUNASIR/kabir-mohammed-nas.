@@ -1,0 +1,64 @@
+.silv h1{
+    font-weight: 900;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    display: inline;
+    cursor: pointer;
+    list-style: none;
+}
+#samsung{
+    display: block;
+    justify-content: center;
+    align-items: center;
+}
+label{
+    font-weight: 900;
+    font-family: sans-serif;
+    font-size: 10px;
+    text-transform: capitalize;
+    list-style: none;
+    cursor: pointer;
+}
+input{
+    border-radius: 3%;
+    padding: 4px;
+    height: 50%;
+    width: 40%;
+}
+#insa{
+    background-color: rgb(201, 201, 235);
+}
+input::placeholder{
+    font-size: 12px;
+    font-style: normal;
+}
+button{
+    background-color: rgb(8, 138, 116);
+    color: white;
+    margin-top: 30px;
+    width: 20%;
+    padding: 9px;
+    border: none;
+    border-radius: 5px;
+}
+.aa{
+    padding-top: 50px;
+}
+.bb{
+    margin-top:50px;
+}
+.cc{
+    margin-top: 50px;
+}
+.dd{
+    margin-top: 50px;
+}
+.form{
+    display: block;
+    justify-content: space-around;
+    align-items: center;
+}
+@media screen {
+    
+}
